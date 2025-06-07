@@ -1,5 +1,8 @@
 # LlamaCoder SaaS Deployment Pipeline
 
+
+*** work with Cursor to understand how to have a multi-tenant (?) Vercel app that can receive these individual apps on a common Next substrate of primitives ***
+
 *Author in Vite/Sandpack → Transform → Deploy as Next.js 15*
 
 ---
@@ -129,3 +132,5 @@ Security: 20 MB project cap, `postinstall` scrubbed, VM GC after 30 min.
 ---
 
 > Drafted automatically by Cascade. Edit freely before publishing.
+
+
